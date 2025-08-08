@@ -1,0 +1,13 @@
+{
+  "name": "twilio-messenger-backend",
+  "version": "1.0.0",
+  "description": "Webhook para receber mensagens do Twilio e salvar na Base44.",
+  "main": "api/twilio-webhook.js",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Este é um projeto serverless para Vercel, não há um comando start.'"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
